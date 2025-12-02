@@ -128,7 +128,7 @@ cd Notes-Application
 
 ##  Contact
 
-**Vijay Chaudhari** (Full Stack Java Developer)
+**Shreyash Vairagade** (Full Stack Java Developer)
 
   * **GitHub:** [ss029v](https://github.com/ss029v)
   * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shreyash-vairagade/)
